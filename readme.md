@@ -33,5 +33,4 @@ When disabled:
 The N3 QUARK will excecute the payload when plugged into a computer.
 
 
-## Details
 Release Date: N/A
