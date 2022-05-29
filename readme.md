@@ -37,4 +37,4 @@ Release Date: N/A
 
 ## To do:
 
-[ ] 
+- [ ] CLI Version of the Utility Tool 
